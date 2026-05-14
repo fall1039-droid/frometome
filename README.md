@@ -14,7 +14,7 @@ The objective is to understand memory-based video object segmentation and reprod
 - Gated Linear Matching analysis
 - PyTorch implementation
 - Google Colab execution
-- 
+
 ## How to Run
 
 1. Open the Colab notebook
